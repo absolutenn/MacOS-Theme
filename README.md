@@ -1,7 +1,19 @@
-# MacOS-Theme
-[ 12/26/18 ] C# Winform MacOS Theme, You put the cs file into your solution then drag either MacOSDarktheme, or MacOSLightTheme inside your solution. Currently it will only change the form. I will be adding buttons, progressbar, textbox, textlabels, and other stuff you will probably see on a theme.
+# info / instructions
+-  add the MacTheme.cs file into ur project, and compile.
+-  u should see the themes in ur toolbox.
 
-# Themes
-There is a Light theme, and a Dark theme. Both have the same traffic light buttons. I'm going to be working on a Blue theme and a Custom theme creator in the future.
+this project was made by me awhile ago and i just updated the readme file, this project wont be continued. 
+
+
+
+# themes
+
+> light theme
+
+![lighttheme](https://cdn.discordapp.com/attachments/738250129626234984/738481264415211550/unknown.png)
+
+> dark theme
+
+![darktheme](https://cdn.discordapp.com/attachments/738250129626234984/738481620532592791/unknown.png)
 
 
